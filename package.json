@@ -1,0 +1,26 @@
+{
+  "name": "testing-graphql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DreSean-Sutton/testing-graphql.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DreSean-Sutton/testing-graphql/issues"
+  },
+  "homepage": "https://github.com/DreSean-Sutton/testing-graphql#readme",
+  "devDependencies": {
+    "eslint": "^8.20.0",
+    "express": "^4.18.1",
+    "express-graphql": "^0.12.0",
+    "graphql": "^16.5.0"
+  }
+}
